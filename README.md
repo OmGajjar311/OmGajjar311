@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm [Your Name]
 
-<!--
-**OmGajjar311/OmGajjar311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at Rutgers University interested in
+hardware design, embedded systems, and electronics.
 
-Here are some ideas to get you started:
+## 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automatic Plant Watering System
+- Thermal Image Analysis in MATLAB
+
+## 💻 Technical Skills
+
+- C/C++
+- MATLAB
+- KiCad
+- PCB Design
+- ESP32
+- Embedded Systems
+- Circuit Design
+- Git/GitHub
+
+## 🎓 Education
+
+Rutgers University
+B.S. Electrical Engineering
