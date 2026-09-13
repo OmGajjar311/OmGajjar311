@@ -10,7 +10,6 @@ hardware design, embedded systems, and electronics.
 
 ## 💻 Technical Skills
 
-- C/C++
 - MATLAB
 - KiCad
 - PCB Design
@@ -23,3 +22,4 @@ hardware design, embedded systems, and electronics.
 
 Rutgers University
 B.S. Electrical Engineering
+Honors College
